@@ -10,7 +10,7 @@ import random
 # anketa its a form which presents a person 
 # i didn't use a lot of my mind naming variables, you see
 
-bot = Bot(token="")
+bot = Bot(token="5379250878:AAF8BS3BAAyLMrVVQ5DeyuAIx_GB51gNqtg")
 dp = Dispatcher(bot, storage=MemoryStorage())
 logging.basicConfig(level=logging.INFO)
 
